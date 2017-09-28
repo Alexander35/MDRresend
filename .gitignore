@@ -1,0 +1,4 @@
+samples/*
+mdr.ini
+geckodriver.log
+__pycache__/*
